@@ -1,0 +1,13 @@
+C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin1\ej1xamarinForms\ej1xamarinForms\ej1xamarinForms\obj\Debug\netstandard2.0\ej1xamarinForms.csproj.AssemblyReference.cache
+C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin1\ej1xamarinForms\ej1xamarinForms\ej1xamarinForms\obj\Debug\netstandard2.0\ej1xamarinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin1\ej1xamarinForms\ej1xamarinForms\ej1xamarinForms\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin1\ej1xamarinForms\ej1xamarinForms\ej1xamarinForms\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin1\ej1xamarinForms\ej1xamarinForms\ej1xamarinForms\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin1\ej1xamarinForms\ej1xamarinForms\ej1xamarinForms\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin1\ej1xamarinForms\ej1xamarinForms\ej1xamarinForms\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin1\ej1xamarinForms\ej1xamarinForms\ej1xamarinForms\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin1\ej1xamarinForms\ej1xamarinForms\ej1xamarinForms\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin1\ej1xamarinForms\ej1xamarinForms\ej1xamarinForms\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
+C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin1\ej1xamarinForms\ej1xamarinForms\ej1xamarinForms\obj\Debug\netstandard2.0\ej1xamarinForms.AssemblyInfoInputs.cache
+C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin1\ej1xamarinForms\ej1xamarinForms\ej1xamarinForms\obj\Debug\netstandard2.0\ej1xamarinForms.AssemblyInfo.cs
+C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin1\ej1xamarinForms\ej1xamarinForms\ej1xamarinForms\obj\Debug\netstandard2.0\ej1xamarinForms.csproj.CoreCompileInputs.cache
