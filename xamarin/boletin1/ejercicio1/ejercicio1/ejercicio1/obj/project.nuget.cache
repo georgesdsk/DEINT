@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LkcoWbFP2m319TvwfrXe3XCWKOKYKnAL9kriQY0oe6nLjyvsflJWORIj+LOeWME+sYAQ8XHKRtX0wt4TxbRsBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sadac\\Desktop\\DEINT\\DEINT\\xamarin\\boletin1\\ejercicio1\\ejercicio1\\ejercicio1\\ejercicio1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sadac\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sadac\\.nuget\\packages\\microsoft.teamfoundationserver.extendedclient\\16.170.0\\microsoft.teamfoundationserver.extendedclient.16.170.0.nupkg.sha512",
+    "C:\\Users\\sadac\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\sadac\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\sadac\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\sadac\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
