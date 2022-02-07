@@ -4,7 +4,9 @@ using System.Text;
 
 namespace App1.ViewModels
 {
-    internal class VistaViewModel
+    public class VistaViewModel
     {
+
+
     }
 }

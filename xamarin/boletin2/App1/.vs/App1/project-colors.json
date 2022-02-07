@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8a460fa9-bf51-4300-bc10-daf617294fb3": {
+      "ProjectGuid": "8a460fa9-bf51-4300-bc10-daf617294fb3",
+      "DisplayName": "App1",
+      "ColorIndex": 0
+    },
+    "133677a9-b46b-4c65-b380-57671c38d6a8": {
+      "ProjectGuid": "133677a9-b46b-4c65-b380-57671c38d6a8",
+      "DisplayName": "Entidades",
+      "ColorIndex": 1
+    },
+    "dcb7ca80-0155-4a49-80c1-27dd9361c181": {
+      "ProjectGuid": "dcb7ca80-0155-4a49-80c1-27dd9361c181",
+      "DisplayName": "DAL",
+      "ColorIndex": 2
+    },
+    "ce90f0dc-1cbf-4026-b68f-5de1f9fdba12": {
+      "ProjectGuid": "ce90f0dc-1cbf-4026-b68f-5de1f9fdba12",
+      "DisplayName": "BL",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
