@@ -31,31 +31,32 @@ namespace PruebasAnimaciones
         {
             this.InitializeComponent();
 
-            SendimageHome(CrearButton());
+            //SendimageHome(CrearButton(),10,10,10);
+            SendimageHome(MiRectangulo,10,10,10);
             
             
         }
 
 
-        public  void SendimageHome(FrameworkElement image, double fromX, double fromY, double scale)
+        public void SendimageHome(FrameworkElement image, double fromX, double fromY, double scale)
         {
-            Storyboard storyboard = new Storyboard();
+            Storyboard storyboardMovimiento = new Storyboard();
+            Storyboard storyboardTamanio = new Storyboard();
 
 
             // image is the target element 
-         
-            DoubleAnimation animateScaleX = CreateDoubleAnimation(image.RenderTransform, 1, 0.6, "(ScaleTransform.ScaleX)", 1.5);
-            storyboard.Children.Add(animateScaleX);
-            DoubleAnimation animateScaleY = CreateDoubleAnimation(image.RenderTransform, 1, 0.4, "(ScaleTransform.ScaleY)", 1.5);
-            storyboard.Children.Add(animateScaleY);
+            ////
+            ///
+            DoubleAnimation animateScaleX = CreateDoubleAnimation(image, 100, 0.6, "(Canvas.Top)", 1.5);
+            storyboardTamanio.Children.Add(animateScaleX);
 
-            DoubleAnimation moveX = CreateDoubleAnimation(image.RenderTransform, 200, 10, "(TranslateTransform.X)", 1.5);
-            storyboard.Children.Add(moveX);
-            DoubleAnimation moveY = CreateDoubleAnimation(image.RenderTransform, 1, 0.6, "(TranslateTransform.Y)", 1.5);
-            storyboard.Children.Add(moveY);
+            DoubleAnimation animacionTamanio = CreateDoubleAnimation(image, 100, 1, "Rectangle.Width", 1.5);
+            animacionTamanio.EnableDependentAnimation = true;
+            storyboardTamanio.Children.Add(animacionTamanio);
 
-            storyboard.RepeatBehavior = RepeatBehavior.Forever;
-            storyboard.Begin();
+
+            storyboardTamanio.RepeatBehavior = RepeatBehavior.Forever;
+            storyboardTamanio.Begin();
         }
 
 
@@ -66,7 +67,7 @@ namespace PruebasAnimaciones
             TransformGroup transformGroup = new TransformGroup();
             transformGroup.Children.Add(sc);
             transformGroup.Children.Add(translate);
-
+            
             Button boton = new Button {
                 Width = 10,
                 Height = 10,
@@ -86,6 +87,7 @@ namespace PruebasAnimaciones
         private  DoubleAnimation CreateDoubleAnimation(DependencyObject frameworkElement, double fromX, double toX, string propertyToAnimate, Double interval)
         {
             DoubleAnimation animation = new DoubleAnimation();
+          //  animation.EnableDependentAnimation = true;
             Storyboard.SetTarget(animation, frameworkElement);
             Storyboard.SetTargetProperty(animation, propertyToAnimate);
             animation.From = fromX;

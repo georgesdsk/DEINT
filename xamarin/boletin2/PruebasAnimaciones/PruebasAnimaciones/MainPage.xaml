@@ -14,35 +14,12 @@
     </Page.Resources>
 
     <Canvas x:Name="miCanvas">
-        <Rectangle x:Name="MiRectangulo" Width="200" Height="200"  Fill="Green" >
-           
+        <Rectangle  x:Name="MiRectangulo" Width="200" Height="200"  Fill="Green">
+        
         </Rectangle>
       
 
-        <!--<Rectangle x:Name="MiRectangulo2" Width="500" Height="200"  Fill="blue" >
-            <Rectangle.RenderTransform>
-                <ScaleTransform CenterX="1" CenterY="0" >
-                </ScaleTransform>
-            </Rectangle.RenderTransform>
-        </Rectangle>  
-        <Rectangle x:Name="MiRectangulo3" Width="500" Height="200"  Fill="Red" >
-            <Rectangle.RenderTransform>
-                <ScaleTransform CenterX="2" CenterY="3" >
-                </ScaleTransform>
-            </Rectangle.RenderTransform>
-        </Rectangle>  
-        <Rectangle x:Name="MiRectangulo4" Width="500" Height="200"  Fill="Red" >
-            <Rectangle.RenderTransform>
-                <ScaleTransform CenterX="3" CenterY="2" >
-                </ScaleTransform>
-            </Rectangle.RenderTransform>
-        </Rectangle>  
-        <Rectangle x:Name="MiRectangulo5" Width="500" Height="200"  Fill="Red" >
-            <Rectangle.RenderTransform>
-                <ScaleTransform CenterX="4" CenterY="1" >
-                </ScaleTransform>
-            </Rectangle.RenderTransform>
-        </Rectangle>-->
+        
 
         <Image x:Name="Imagen"></Image>
     </Canvas>

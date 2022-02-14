@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DESKTOP-LE9EAKL</Machine>
-    <WindowsUser>sadac</WindowsUser>
+    <Machine>107-23</Machine>
+    <WindowsUser>hsadouski</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>c67dba02-6263-4de5-a044-47d51d79f5d3</PackageIdentityName>
     <PackageIdentityPublisher>CN=sadac</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\hsadouski\Source\Repos\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>2C62A093DE378AC41709194D2860F19973C8DF5FC21FA710ED3BC98AE48B5AEF</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\hsadouski\Source\Repos\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>C51B7E14AE8791B039A157E1ED25156F8B9FA3E6FB192326C7508968D1FED13C</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>c67dba02-6263-4de5-a044-47d51d79f5d3_1.0.0.0_x86__07md3y163qwpa</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>c67dba02-6263-4de5-a044-47d51d79f5d3_07md3y163qwpa!App</RegisteredUserModeAppID>
     <RegisteredPackageID>c67dba02-6263-4de5-a044-47d51d79f5d3</RegisteredPackageID>
@@ -27,38 +27,38 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\hsadouski\Source\Repos\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-02-05T20:52:14.808</Modified>
+      <Modified>2022-02-14T12:46:00.817</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\bin\x86\Debug\PruebasAnimaciones.exe">
+    <AppxPackagedFile Include="C:\Users\hsadouski\Source\Repos\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\bin\x86\Debug\PruebasAnimaciones.exe">
       <PackagePath>entrypoint\PruebasAnimaciones.exe</PackagePath>
-      <Modified>2022-02-05T20:52:14.067</Modified>
+      <Modified>2022-02-14T12:46:00.338</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sadac\.nuget\packages\microsoft.toolkit\7.1.2\lib\netstandard2.0\Microsoft.Toolkit.dll">
+    <AppxPackagedFile Include="C:\Users\hsadouski\.nuget\packages\microsoft.toolkit\7.1.2\lib\netstandard2.0\Microsoft.Toolkit.dll">
       <PackagePath>Microsoft.Toolkit.dll</PackagePath>
       <Modified>2021-11-18T22:28:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sadac\.nuget\packages\microsoft.toolkit.uwp\7.1.2\lib\uap10.0.17763\Microsoft.Toolkit.Uwp.dll">
+    <AppxPackagedFile Include="C:\Users\hsadouski\.nuget\packages\microsoft.toolkit.uwp\7.1.2\lib\uap10.0.17763\Microsoft.Toolkit.Uwp.dll">
       <PackagePath>Microsoft.Toolkit.Uwp.dll</PackagePath>
       <Modified>2021-11-18T22:29:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sadac\.nuget\packages\microsoft.toolkit.uwp.ui\7.1.2\lib\uap10.0.17763\Microsoft.Toolkit.Uwp.UI.dll">
+    <AppxPackagedFile Include="C:\Users\hsadouski\.nuget\packages\microsoft.toolkit.uwp.ui\7.1.2\lib\uap10.0.17763\Microsoft.Toolkit.Uwp.UI.dll">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.dll</PackagePath>
       <Modified>2021-11-18T22:29:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sadac\.nuget\packages\microsoft.toolkit.uwp.ui.animations\7.1.2\lib\uap10.0.17763\Microsoft.Toolkit.Uwp.UI.Animations.dll">
+    <AppxPackagedFile Include="C:\Users\hsadouski\.nuget\packages\microsoft.toolkit.uwp.ui.animations\7.1.2\lib\uap10.0.17763\Microsoft.Toolkit.Uwp.UI.Animations.dll">
       <PackagePath>Microsoft.Toolkit.Uwp.UI.Animations.dll</PackagePath>
       <Modified>2021-11-18T22:29:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sadac\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.1\lib\uap10.0\Microsoft.Xaml.Interactions.dll">
+    <AppxPackagedFile Include="C:\Users\hsadouski\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.1\lib\uap10.0\Microsoft.Xaml.Interactions.dll">
       <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
       <Modified>2019-04-27T01:06:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sadac\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.1\lib\uap10.0\Microsoft.Xaml.Interactivity.dll">
+    <AppxPackagedFile Include="C:\Users\hsadouski\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.1\lib\uap10.0\Microsoft.Xaml.Interactivity.dll">
       <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
       <Modified>2019-04-27T01:06:08.000</Modified>
     </AppxPackagedFile>
@@ -70,67 +70,67 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2020-12-02T02:52:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\hsadouski\Source\Repos\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2022-01-26T11:12:48.539</Modified>
+      <Modified>2022-02-14T10:53:34.567</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hsadouski\Source\Repos\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2021-11-22T18:07:42.038</Modified>
+      <Modified>2022-02-14T10:53:34.564</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hsadouski\Source\Repos\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-22T18:07:42.042</Modified>
+      <Modified>2022-02-14T10:53:34.564</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hsadouski\Source\Repos\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-22T18:07:42.042</Modified>
+      <Modified>2022-02-14T10:53:34.564</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hsadouski\Source\Repos\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-22T18:07:42.043</Modified>
+      <Modified>2022-02-14T10:53:34.565</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\hsadouski\Source\Repos\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-22T18:07:42.045</Modified>
+      <Modified>2022-02-14T10:53:34.565</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\hsadouski\Source\Repos\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-22T18:07:42.045</Modified>
+      <Modified>2022-02-14T10:53:34.565</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\hsadouski\Source\Repos\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-22T18:07:42.046</Modified>
+      <Modified>2022-02-14T10:53:34.565</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\bin\x86\Debug\PruebasAnimaciones.xr.xml">
+    <AppxPackagedFile Include="C:\Users\hsadouski\Source\Repos\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\bin\x86\Debug\PruebasAnimaciones.xr.xml">
       <PackagePath>PruebasAnimaciones.xr.xml</PackagePath>
-      <Modified>2022-02-05T20:12:04.822</Modified>
+      <Modified>2022-02-14T12:41:28.355</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\hsadouski\Source\Repos\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-02-05T20:52:13.988</Modified>
+      <Modified>2022-02-14T12:46:00.262</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\hsadouski\Source\Repos\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-02-05T20:52:13.989</Modified>
+      <Modified>2022-02-14T12:46:00.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2020-12-02T00:52:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\hsadouski\Source\Repos\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-02-05T17:50:11.424</Modified>
+      <Modified>2022-02-14T10:57:47.987</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sadac\Desktop\DEINT\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\bin\x86\Debug\Core\PruebasAnimaciones.exe">
+    <AppxPackagedFile Include="C:\Users\hsadouski\Source\Repos\DEINT\xamarin\boletin2\PruebasAnimaciones\PruebasAnimaciones\bin\x86\Debug\Core\PruebasAnimaciones.exe">
       <PackagePath>PruebasAnimaciones.exe</PackagePath>
-      <Modified>2022-02-05T20:52:14.800</Modified>
+      <Modified>2022-02-14T12:46:00.815</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

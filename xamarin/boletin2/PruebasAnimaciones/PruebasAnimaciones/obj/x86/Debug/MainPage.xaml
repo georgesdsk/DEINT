@@ -14,8 +14,18 @@
     </Page.Resources>
 
     <Canvas x:ConnectionId='2' x:Name="miCanvas">
-        <Rectangle x:ConnectionId='3' x:Name="MiRectangulo" Width="200" Height="200"  Fill="Green" >
-           
+        <Rectangle x:ConnectionId='3'  x:Name="MiRectangulo" Width="200" Height="200"  Fill="Green">
+            <!--<Rectangle.RenderTransform>
+                <TranslateTransform></TranslateTransform>
+                <ScaleTransform ScaleX="0" ScaleY="0"></ScaleTransform>
+            </Rectangle.RenderTransform>-->
+
+            <!--<Rectangle.RenderTransform>
+                <TransformGroup x:Name="group">
+                    <TranslateTransform></TranslateTransform>
+                    <ScaleTransform ScaleX="0" ScaleY="0"></ScaleTransform>
+                </TransformGroup>
+            </Rectangle.RenderTransform>-->
         </Rectangle>
       
 
